@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+<item android:id="@+id/global_id"
+    android:icon="@drawable/ic_arrow_back_black_24dp"
+    android:title="Global News"/>
+<item android:id="@+id/local_id"
+    android:icon="@drawable/ic_cancel_black_24dp"
+    android:title="Local News"/>
+<item android:id="@+id/english_id"
+    android:icon="@drawable/ic_android_black_24dp"
+    android:title="English News"/>
+    <item android:id="@+id/about_us"
+        android:icon="@drawable/ic_apps_black_24dp"
+        android:title="About Us"/>
+
+</menu>
